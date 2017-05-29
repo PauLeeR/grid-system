@@ -1,6 +1,7 @@
 body{
 	font-family: 'Roboto', sans-serif;
 }
+
 .caja{
 	background-color: #9B0022;
 }
@@ -10,7 +11,7 @@ header{
 }
 
 .back{
-	background-image: url(http://lorempixel.com/1024/600/cats/);
+	background-image: url(http://lorempixel.com/1024/600/cats/back);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -27,4 +28,17 @@ header{
 	position: absolute;
 	top: 40%;
 	left: 35%;
+	font
+}
+.text{
+	position: absolute;
+	top: 90%;
+	left: 35%;
+	color: yellow;
+	font-size: 36px;
+	font-weight: bolder;
+}
+
+.link{
+	float: right;
 }
